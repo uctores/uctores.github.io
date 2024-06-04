@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uctores.github.io/sitemap.html
+Sitemap: https://uctores.github.io/app/sitemap.html
+Sitemap: https://uctores.github.io/assets/sitemap.html
+Sitemap: https://uctores.github.io/includes/sitemap.html
+Sitemap: https://uctores.github.io/src/sitemap.html
